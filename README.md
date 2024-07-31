@@ -1,6 +1,7 @@
 # Trabalho Economia de Energia - Consumo e Projeção
 
 **Disciplina**: Economia de Energia<br>
+**Docente**: Rudi Henri Van Els
 
 ## Alunos
 |Matrícula | Aluno | Curso |
