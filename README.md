@@ -4,7 +4,7 @@
 
 ## Alunos
 |Matrícula | Aluno | Curso |
-| -- | -- |
+| -- | -- | -- |
 | 20/0061216  |  Cleber de Oliveira Brant | Eng. Software |
 | 19/0042672  |  Gabriel Pereira Cortez | Eng. Energia |
 | 20/0062450  |  Marina da Matta Nery | Eng. Energia |
