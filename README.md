@@ -1,6 +1,6 @@
 # Segunda Avaliação de Economia de Energia - Consumo e Projeção
 
-**Disciplina**: FGA 0265 Economia de Energia<br>, Turma 01/2024.1
+**Disciplina**: FGA 0265 Economia de Energia, Turma 01/2024.1
 **Docentes**: Augusto Cesar de Mendonça Brasil e Rudi Henri van Els
 
 ## Discentes
