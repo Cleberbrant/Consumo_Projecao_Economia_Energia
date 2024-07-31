@@ -11,17 +11,13 @@
 | 20/0062450  |  Marina da Matta Nery | Eng. Energia |
 
 ## Sobre
-**Linguagem**: Python<br>
-**Bibliotecas**: matplotlib, numpy, scikit-learn
+Este estudo visa quantificar a energia necessária para atender a demanda de eletricidade e transporte de um País X, utilizando dados do Balanço Energético Nacional (BEN), além de projetar um cenário de eletrificação parcial do setor de transporte, e também projetar o consumo energético futuro baseado nos dados existentes.
 
-O grupo decidiu fazer o programa em Python, e utilizamos a bibliotecas acima para fazer as projeções e plotar os graficos.
+**Linguagem**: Python<br>
+**Bibliotecas necessárias**: matplotlib, numpy, scikit-learn
 
 ## Configuração de Ambiente
-Para rodar o programa, é necessário configurar seu ambiente, com isso, é necessário a instalação previa do Python 3, e é recomendado a utilização do Visual Studio Code, dentro dele, tambem é recomendada a instalação de 2 plugins na IDE, que seriam o Jupyter e o Python. Após isso instale as bibliotecas com o PIP em algum terminal de seu computador.
-
-pip install numpy<br>
-pip install matplotlib<br>
-pip install scikit-learn
+Para rodar o programa, é necessário configurar seu ambiente fazendo uma instalação prévia do Python 3. Recomenda-se a utilização do Visual Studio Code, e duas extensões dentro do mesmo, o Jupyter e o Python, que também precisam de instalação prévia. Após isso, é necessário instalar as bibliotecas em algum terminal de seu computador.
 
 ## Screenshots
 ### Cenário Business as Usual
