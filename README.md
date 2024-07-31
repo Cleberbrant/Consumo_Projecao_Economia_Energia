@@ -1,4 +1,4 @@
-# Trabalho Economia de Energia - Consumo e Projeção
+# Segunda Avaliação de Economia de Energia - Consumo e Projeção
 
 **Disciplina**: Economia de Energia<br>
 **Docente**: Rudi Henri Van Els
