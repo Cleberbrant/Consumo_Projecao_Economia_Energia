@@ -30,4 +30,4 @@ Para rodar o programa, é necessário configurar seu ambiente fazendo uma instal
 ![Energia Total](./assets/energiaTotal_Eletrificado.png)
 ![Consumo por Fonte](./assets/consumoEnergiaPorFonte_Eletrificado.png)
 ![Projeçao Consumo](./assets/projecaoConsumoEnergia_Eletrificado.png)
-![Projeçao Consumo por Fonte](./assets/projecaoConsumoEnergiaFonte_Eletrificado.png.png)
+![Projeçao Consumo por Fonte](./assets/projecaoConsumoEnergiaFonte_Eletrificado.png)
